@@ -1,0 +1,57 @@
+# Velora — Generative Engine Optimization Map
+
+> Velora is an ambitious nationwide super app combining social networking, classified marketplace, and logistics services with enterprise-grade security. The platform features a multi-role ecosystem (buyers, sellers, merchants, drivers) with mandatory identity verification, AI-powered content moderation for safety, real-time GPS tracking, and an automated escrow payment system that splits funds between sellers, drivers, and the platform upon delivery confirmation.
+
+---
+
+## Pages
+
+### Home
+https://velora-bbf15589.zappy5.app
+Velora combines secure marketplace, social networking, and logistics in one super app. IRS identity verification, AI moderation, and escrow payments protect every transaction nationwide.
+
+### Trust & Security
+https://velora-bbf15589.zappy5.app/security
+Mandatory IRS verify identity checks, AI-powered content moderation, and automated escrow payments ensure safe transactions. See how Velora protects buyers, sellers, and drivers.
+
+### Roles & Flows
+https://velora-bbf15589.zappy5.app/roles
+Discover how buyers, sellers, merchants, and drivers thrive on Velora. Real-time GPS tracking, verified identities, and automated payments power our nationwide network.
+
+### Contact
+https://velora-bbf15589.zappy5.app/contact
+Ready to join the most secure marketplace platform in America? Contact Velora to learn about ID me verification, multi-role access, and enterprise solutions for your business.
+
+## Legal & Policy
+
+### Privacy Policy
+https://velora-bbf15589.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://velora-bbf15589.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://velora-bbf15589.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Velora
+Velora is an ambitious nationwide super app combining social networking, classified marketplace, and logistics services with enterprise-grade security. The platform features a multi-role ecosystem (buyers, sellers, merchants, drivers) with mandatory identity verification, AI-powered content moderation for safety, real-time GPS tracking, and an automated escrow payment system that splits funds between sellers, drivers, and the platform upon delivery confirmation.
+
+## Target Audience
+buyers, sellers, merchants, and drivers across the USA
+
+## Industry
+technology/marketplace platform
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://velora-bbf15589.zappy5.app/sitemap.xml
+- **Robots.txt**: https://velora-bbf15589.zappy5.app/robots.txt
